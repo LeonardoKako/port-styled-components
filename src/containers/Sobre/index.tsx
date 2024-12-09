@@ -7,10 +7,13 @@ const Sobre = () => {
     <section>
       <Titulo fontSize={16}>Sobre mim</Titulo>
       <Paragrafo tipo="principal">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos sequi
-        adipisci inventore nesciunt rerum ipsa. Porro autem nulla laudantium.
-        Praesentium corrupti assumenda excepturi doloremque? Vitae magnam quia
-        quis saepe blanditiis.
+        Este projeto utiliza a API do GitHub e foi criado como uma forma de
+        explorar algo diferente do meu habitual, mesmo já tendo um portfólio com
+        trabalhos semelhantes. Com a API do GitHub, consegui exibir minha foto e
+        algumas informações pessoais, em um projeto que, embora simples, me
+        deixou bastante satisfeita. Fiquei especialmente contente com o
+        resultado da implementação de troca de tema e outros detalhes. É sempre
+        gratificante se desafiar e aprender algo novo!
       </Paragrafo>
       <GithubSecao>
         <img src="https://github-readme-stats.vercel.app/api?username=leonardokako&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
